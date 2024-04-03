@@ -1,4 +1,4 @@
-## Varun's Academic Assistant Backend Solution
+## Academic Assistant Backend Solution
 
 ### Overview
 Our backend solution is designed to cater to the academic needs of Varun, a dedicated student at the University Visvesvaraya College of Engineering (UVCE). It provides a robust platform to streamline his academic tasks, ensuring effective management of courses, assignments, attendance, expenses, and deadlines.
