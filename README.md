@@ -1,9 +1,12 @@
 # Academic Assistant Solution
 
 ## Overview
-Our backend solution is designed to cater to the academic needs of Varun. It provides a robust platform to streamline his academic tasks, ensuring effective management of courses, assignments, attendance, expenses, and deadlines.
+Our solution is designed to cater to the academic needs of Varun, a student at the University Visvesvaraya College of Engineering (UVCE). It provides a robust platform to streamline his academic tasks, ensuring effective management of courses, assignments, attendance, expenses, and deadlines.
+<div style="text-align:center">
+    <img src="https://github.com/Rohith1905/impetus24/raw/main/Presentation.jpg" alt="Description of the image" width="400">
+</div>
 
-#### Features Implemented
+#### Features Implemented:
 - **Test Score Tracker**
    - Varun can record and track his test scores for each course.
    - Allows monitoring of academic progress over time.
@@ -35,6 +38,6 @@ Our backend solution is designed to cater to the academic needs of Varun. It pro
 | **User Experience** | Focused on providing a user-friendly interface for easy navigation and efficient task management. |
 
 #### Conclusion
-- Our backend solution for Varun's Academic Assistant effectively addresses the challenges he faces in managing his academic life.
+- Our solution for Varun's Academic Assistant effectively addresses the challenges he faces in managing his academic life.
 - With comprehensive features, secure authentication, and scalability, it ensures Varun can excel in his studies while maintaining a healthy work-life balance.
 
