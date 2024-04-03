@@ -7,16 +7,13 @@ Our backend solution is designed to cater to the academic needs of Varun. It pro
 - **Test Score Tracker**
    - Varun can record and track his test scores for each course.
    - Allows monitoring of academic progress over time.
-
 - **Attendance Management**
    - Varun can view his attendance data for classes.
    - Tracks overall attendance percentage for each course.
    - Helps Varun stay accountable and meet attendance requirements set by UVCE.
-
 - **Expense Tracker**
    - Provides a tool to track expenses related to college.
    - Includes tuition fees, textbooks, stationery, and other educational expenses.
-
 - **Deadline Reminders**
    - Allows Varun to set reminders for assignment deadlines, project submissions, exam dates, and more.
    - Facilitates organization and helps Varun meet academic commitments.
@@ -24,13 +21,11 @@ Our backend solution is designed to cater to the academic needs of Varun. It pro
 #### Technology Stack
 | Technology | Description |
 | ---------- | ----------- |
-| **Node.js with Express.js** | Used for server-side development, providing a robust and scalable backend infrastructure. |
-| **Firebase** | Utilized as the database to store user data securely and efficiently. |
-| **React** | Implemented for the frontend to enhance user interface and responsiveness, providing a seamless user experience. |
-| **Authentication** | Implemented secure login/signup using JWT tokens and storing cookies for session management. |
-| **Database** | Utilized Firebase for storing user data securely. |
-| **Additional Google Technologies** | Leveraged Google Technologies in the development process to enhance efficiency and scalability. |
-
+|`Nodejs`,  `Expressjs`   | Used for `server-side development, providing a robust and scalable backend infrastructure. |
+| `Firebase` | Utilized as the database to store user data securely and efficiently. |
+| `React` | Implemented for the frontend to enhance user interface and responsiveness, providing a seamless user experience. |
+| `Authentication`    | Implemented secure login/signup using JWT tokens and storing cookies for session management. |
+| `Database` | Utilized Firebase for storing user data securely. |
 
 #### Additional Features
 | Feature | Description |
