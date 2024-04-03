@@ -1,5 +1,4 @@
-# Academic Assistant Solution
-
+# Integrated Student Academic and Expense Manager.
 ## Overview
 Our solution is designed to cater to the academic needs of Varun, a student at the University Visvesvaraya College of Engineering (UVCE). It provides a robust platform to streamline his academic tasks, ensuring effective management of courses, assignments, attendance, expenses, and deadlines.
 <div style="text-align:center">
@@ -24,11 +23,11 @@ Our solution is designed to cater to the academic needs of Varun, a student at t
 #### Technology Stack
 | Technology | Description |
 | ---------- | ----------- |
-|`Nodejs`,  `Expressjs`   | Used for `server-side development, providing a robust and scalable backend infrastructure. |
-| `Firebase` | Utilized as the database to store user data securely and efficiently. |
-| `React` | Implemented for the frontend to enhance user interface and responsiveness, providing a seamless user experience. |
-| `Authentication`    | Implemented secure login/signup using JWT tokens and storing cookies for session management. |
-| `Database` | Utilized Firebase for storing user data securely. |
+|**`Nodejs`**,  **`Expressjs`**   | Used for *__server-side development__*, providing a robust and scalable backend infrastructure. |
+| **`Firebase`** | Utilized as the database to store user data securely and efficiently. |
+| **`React`** | Implemented for the frontend to enhance *__user interface__* and *__responsiveness__*, providing a seamless user experience. |
+| **`Authentication`** | Implemented secure login/signup using *__JWT Tokens__* and storing cookies for session management. |
+| **`Database`** | Utilized *__Firebase__** for storing user data securely. |
 
 #### Additional Features
 | Feature | Description |
